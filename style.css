@@ -1,0 +1,34 @@
+img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headerImage {
+    max-width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-size: 10em;
+    text-align: center;
+    color: purple;
+    font-family: "fantasy", "papyrus";
+}
+
+p {
+    font-size: 3em;
+    text-align: center;
+    color: darkmagenta;
+    font-family: "fantasy", "papyrus";
+}
+
