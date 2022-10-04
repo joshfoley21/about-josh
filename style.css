@@ -14,6 +14,12 @@ img {
     margin-right: auto;
 }
 
+.irelandPics {
+    float: left;
+    width: 33%;
+    padding: 5px;
+}
+
 body {
     background-color: orange;
 }
